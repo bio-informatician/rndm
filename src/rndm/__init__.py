@@ -1,6 +1,6 @@
-from __future__ import annotations
-
 """rndm: lightweight non-cryptographic RNG utilities (SplitMix64)."""
+
+from __future__ import annotations
 
 from .core import (
     reseed,
