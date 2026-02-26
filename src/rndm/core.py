@@ -1,4 +1,5 @@
 # rndm/core.py
+from __future__ import annotations
 from datetime import datetime
 
 _MASK64 = (1 << 64) - 1
