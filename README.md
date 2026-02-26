@@ -12,6 +12,12 @@ It provides:
 
 ## Install
 
+### From PyPI
+
+```bash
+pip install rndm
+```
+
 ### From source (GitHub)
 
 ```bash
@@ -73,16 +79,16 @@ a2 = rndm.time_based_random(0, 10)
 
 ## Benchmarks
 
-The repository includes example benchmark outputs under `benchmarks/`:
+The repository includes example benchmark outputs under `https://raw.githubusercontent.com/bio-informatician/rndm/refs/heads/main/benchmarks/`:
 
-- Distribution plots: `benchmarks/plots/`
-- Bin counts (CSV): `benchmarks/counts/`
-- Summary table: `benchmarks/summary.csv`
+- Distribution plots: `https://raw.githubusercontent.com/bio-informatician/rndm/refs/heads/main/benchmarks/plots/`
+- Bin counts (CSV): `https://raw.githubusercontent.com/bio-informatician/rndm/refs/heads/main/benchmarks/counts/`
+- Summary table: `https://raw.githubusercontent.com/bio-informatician/rndm/refs/heads/main/benchmarks/summary.csv`
 
 Example figures:
 
-![Chi-square summary](benchmarks/plots/summary_chi2.png)
-![Speed summary](benchmarks/plots/summary_speed.png)
+![Chi-square summary](https://github.com/bio-informatician/rndm/blob/9115d29420d0099064af211b8bdd668cb6e6cf53/benchmarks/plots/summary_chi2.png)
+![Speed summary](https://github.com/bio-informatician/rndm/blob/9115d29420d0099064af211b8bdd668cb6e6cf53/benchmarks/plots/summary_speed.png)
 
 ## Development
 
@@ -101,4 +107,4 @@ python -m build
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT — see [LICENSE](http://raw.githubusercontent.com/bio-informatician/rndm/refs/heads/main/LICENSE).
