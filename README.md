@@ -79,16 +79,17 @@ a2 = rndm.time_based_random(0, 10)
 
 ## Benchmarks
 
-The repository includes example benchmark outputs under `https://raw.githubusercontent.com/bio-informatician/rndm/refs/heads/main/benchmarks/`:
+The repository includes example benchmark outputs under `https://github.com/bio-informatician/rndm/tree/main/benchmarks/`:
 
-- Distribution plots: `https://raw.githubusercontent.com/bio-informatician/rndm/refs/heads/main/benchmarks/plots/`
-- Bin counts (CSV): `https://raw.githubusercontent.com/bio-informatician/rndm/refs/heads/main/benchmarks/counts/`
-- Summary table: `https://raw.githubusercontent.com/bio-informatician/rndm/refs/heads/main/benchmarks/summary.csv`
+- Distribution plots: `https://github.com/bio-informatician/rndm/tree/main/benchmarks/plots/`
+- Bin counts (CSV): `https://github.com/bio-informatician/rndm/tree/main/benchmarks/counts/`
+- Summary table: ![summary](https://raw.githubusercontent.com/bio-informatician/rndm/main/benchmarks/summary.csv)
 
 Example figures:
 
-![Chi-square summary](https://github.com/bio-informatician/rndm/blob/9115d29420d0099064af211b8bdd668cb6e6cf53/benchmarks/plots/summary_chi2.png)
-![Speed summary](https://github.com/bio-informatician/rndm/blob/9115d29420d0099064af211b8bdd668cb6e6cf53/benchmarks/plots/summary_speed.png)
+![Chi-square summary](https://raw.githubusercontent.com/bio-informatician/rndm/main/benchmarks/plots/summary_chi2.png)
+
+![Speed summary](https://raw.githubusercontent.com/bio-informatician/rndm/main/benchmarks/plots/summary_speed.png)
 
 ## Development
 
